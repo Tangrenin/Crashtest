@@ -1,3 +1,3 @@
 # Crashtest
-Uninteresting code tests
+Uninteresting code tests \n
 Where things sometimes not go wrong
